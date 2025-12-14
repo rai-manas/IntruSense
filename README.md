@@ -45,6 +45,8 @@ pip install -r requirements.txt
 python src/fus.py
 # IntruSense
 
+```
+
 ## Results
 All experimental results, confusion matrices, and evaluation metrics
 are available in the `results/` and `plots/` directories.
