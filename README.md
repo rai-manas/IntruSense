@@ -34,15 +34,10 @@ https://research.unsw.edu.au/projects/toniot-datasets
 - Random Forest (baseline)
 - Fusion-based classifier
 
-## Project Structure
-- `src/` – Source code
-- `results/` – Metrics and confusion matrices
-- `plots/` – Generated visualizations
-
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python src/fus.py
+python fus.py
 # IntruSense
 
 ```
